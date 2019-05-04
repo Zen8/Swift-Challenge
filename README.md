@@ -1,4 +1,4 @@
-# Swift-Challenge
+# Mimo Swift Challenge 
 Build a Smartwatch Challenge in Mimo
 
 You're part of the project to build the new Activity feature for a smartwatch. Unfortuntely, the data you are receiving
